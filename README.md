@@ -1,4 +1,4 @@
-# 🎮 Game Xếp Hình
+<img width="570" height="709" alt="image" src="https://github.com/user-attachments/assets/df806625-8676-4e58-9159-30ae934db8b7" /># 🎮 Game Xếp Hình
 
 > **Bài tập lớn cuối kỳ môn Lập trình Java**
 > **Nhóm thực hiện: Nhóm 4 UED**
@@ -7,9 +7,9 @@
 
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò / Nhiệm vụ | Link GitHub Cá Nhân |
 |---|---|---|---|---|
-| 1 | Phạm Tùng Dương (Nhóm trưởng)| 3120225036 | Code Controller,Code Model, Xử lý Thuật toán, Main | [GitHub](https://github.com/duongphamakatraidepnuithanh) |
-| 2 | Lê Thị Thanh Hằng] | 3120225044 | Xử lý File I/O, Main, test, Báo cáo | [GitHub](https://github.com/lth29072007-a11y) |
-| 3 | Hoàng Yến Nhi | 3120225110 | ,Vẽ Giao diện (View), KeyListener, Đồ họa  | [GitHub](https://github.com/hynhik7-dot) |
+| 1 | Phạm Tùng Dương (Nhóm trưởng)| 3120225036 | Code Controller, Code Model, Xử lý Thuật toán, Main | [GitHub](https://github.com/duongphamakatraidepnuithanh) |
+| 2 | Lê Thị Thanh Hằng | 3120225044 | Xử lý File I/O, Main, test, Báo cáo | [GitHub](https://github.com/lth29072007-a11y) |
+| 3 | Hoàng Yến Nhi | 3120225110 | Vẽ Giao diện (View), KeyListener, Đồ họa  | [GitHub](https://github.com/hynhik7-dot) |
 
 ## 📖 Giới thiệu dự án (Description)
 Đây là dự án Game Xếp Gạch (Tetris) kinh điển được thiết kế lại với phong cách đồ họa Neon Synthwave đẹp mắt. Trò chơi giúp người chơi giải trí thông qua việc sắp xếp các khối gạch rơi tự do, ăn điểm khi lấp đầy hàng ngang và liên tục thử thách bản thân với hệ thống lưu trữ kỷ lục.
@@ -27,6 +27,15 @@
 * **Giao diện:** Java Swing, AWT (`Graphics2D`)
 * **Lưu trữ:** File Text (`highscore.txt`)
 * **Công cụ khác:** Git, GitHub, IntelliJ IDEA / Eclipse
+## 🎮 Một số hình ảnh khi chạy
+* **Bắt đầu chơi
+<img width="571" height="710" alt="image" src="https://github.com/user-attachments/assets/a345e39b-9cfb-4c61-9724-659fe545fb42" />
+* **Lúc chơi
+<img width="568" height="712" alt="image" src="https://github.com/user-attachments/assets/7d5cafad-d211-47be-9a31-d34405daca9d" />
+* **Lúc thua
+<img width="570" height="709" alt="image" src="https://github.com/user-attachments/assets/946c9f3c-d1f5-4cb5-b67d-bd8e6c896917" />
+* **Điểm cao nhất
+<img width="209" height="378" alt="image" src="https://github.com/user-attachments/assets/d6d0d5c8-00fa-457b-b2be-0161182557c4" />
 
 ## 📂 Cấu trúc thư mục (Project Structure)
 Mã nguồn được tổ chức chặt chẽ theo mô hình **MVC (Model - View - Controller)**:
