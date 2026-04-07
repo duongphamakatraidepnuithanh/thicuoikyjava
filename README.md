@@ -1,4 +1,4 @@
-# 🎮 Game Xếp Hình
+**# 🎮 Game Xếp Hình
 
 > **Bài tập lớn cuối kỳ môn Lập trình Java**
 > **Nhóm thực hiện: Nhóm 4 UED**
@@ -39,3 +39,27 @@ src
  ┃ ┣ controller/  # Chứa logic nghiệp vụ, thuật toán (GameController)
  ┃ ┣ utils/       # Chứa tiện ích hỗ trợ, bắt lỗi file (FileHelper, GameFileException)
  ┃ ┗ Main.java    # File Entry-point để khởi động ứng dụng
+```
+## 🚀 Hướng dẫn cài đặt và chạy (Installation)
+
+1. **Clone repository này về máy:**
+   `git clone https://github.com/duongphamakatraidepnuithanh/thicuoikyjava.git`
+
+2. **Chạy ứng dụng:**
+   * Mở project bằng IDE (IntelliJ IDEA / Eclipse / VS Code).
+   * Chạy file `src/yennhi/Main.java` để bắt đầu chơi.
+   * Nhấn `ENTER` để bắt đầu, dùng các phím `MŨI TÊN` để điều khiển khối gạch.
+
+## 📸 Ảnh chụp màn hình (Screenshots)
+
+**🎮 Màn hình bắt đầu chơi:**
+![Màn hình bắt đầu chơi](https://github.com/user-attachments/assets/a345e39b-9cfb-4c61-9724-659fe545fb42)
+
+**🎮 Giao diện lúc đang chơi:**
+![Giao diện lúc đang chơi](https://github.com/user-attachments/assets/7d5cafad-d211-47be-9a31-d34405daca9d)
+
+**❌ Khi Game Over:**
+![Khi Game Over](https://github.com/user-attachments/assets/946c9f3c-d1f5-4cb5-b67d-bd8e6c896917)
+
+**🏆 File lưu kỷ lục (Highscore):**
+![Điểm cao nhất](https://github.com/user-attachments/assets/d6d0d5c8-00fa-457b-b2be-0161182557c4)
