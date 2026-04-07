@@ -7,7 +7,7 @@
 
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò / Nhiệm vụ | Link GitHub Cá Nhân |
 |---|---|---|---|---|
-| 1 | Phạm Tùng Dương (Nhóm trưởng)| 3120225036 | Code Controller,Code Model, Xử lý Thuật toán, Main | [GitHub](#) |
+| 1 | Phạm Tùng Dương (Nhóm trưởng)| 3120225036 | Code Controller,Code Model, Xử lý Thuật toán, Main | [GitHub]([#](https://github.com/duongphamakatraidepnuithanh)) |
 | 2 | Lê Thị Thanh Hằng] | 3120225044 | Xử lý File I/O, Main, test, Báo cáo | [GitHub](#) |
 | 3 | Hoàng Yến Nhi | 3120225110 | ,Vẽ Giao diện (View), KeyListener, Đồ họa  | [GitHub](#) |
 
