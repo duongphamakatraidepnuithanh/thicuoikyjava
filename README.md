@@ -1,4 +1,4 @@
-# 🎮 Game Hình
+# 🎮 Game Xếp Hình
 
 > **Bài tập lớn cuối kỳ môn Lập trình Java**
 > **Nhóm thực hiện: Nhóm 4 UED**
