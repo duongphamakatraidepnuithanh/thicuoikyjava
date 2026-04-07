@@ -1,6 +1,7 @@
 package yennhi.utils;
 
 import java.io.*;
+import javax.swing.JOptionPane;
 
 public class FileHelper {
     private static final String FILE_NAME = "highscore.txt";
@@ -13,18 +14,20 @@ public class FileHelper {
                 return Integer.parseInt(line.trim());
             }
         } catch (IOException | NumberFormatException e) {
-            // Nếu file chưa tồn tại hoặc lỗi, trả về 0
-            return 0;
+            return 0; // Nếu file chưa tồn tại hoặc lỗi, trả về 0
         }
         return 0;
     }
 
-    // Ghi điểm cao nhất mới vào file text
-    public static void saveHighScore(int score) {
+    // Ghi điểm cao nhất mới vào file text, có ném ngoại lệ tự định nghĩa
+    public static void saveHighScore(int score) throws GameFileException {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(FILE_NAME))) {
             writer.write(String.valueOf(score));
         } catch (IOException e) {
-            System.err.println("Lỗi khi lưu điểm: " + e.getMessage());
+            // Hiện thông báo lỗi trực quan cho người chơi
+            JOptionPane.showMessageDialog(null, "Lỗi khi lưu điểm: " + e.getMessage(), "Lỗi Hệ Thống", JOptionPane.ERROR_MESSAGE);
+            // Ném Custom Exception theo yêu cầu đề bài
+            throw new GameFileException("Không thể ghi dữ liệu xuống file " + FILE_NAME);
         }
     }
 }
