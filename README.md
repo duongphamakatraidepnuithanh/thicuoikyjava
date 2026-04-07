@@ -39,3 +39,7 @@ src
  ┃ ┣ controller/  # Chứa logic nghiệp vụ, thuật toán (GameController)
  ┃ ┣ utils/       # Chứa tiện ích hỗ trợ, bắt lỗi file (FileHelper, GameFileException)
  ┃ ┗ Main.java    # File Entry-point để khởi động ứng dụng
+## 🚀 Hướng dẫn cài đặt và chạy (Installation)
+1. **Clone repository này về máy:**
+   ```bash
+   git clone [https://github.com/duongphamakatraidepnuithanh/thicuoikyjava.git](https://github.com/duongphamakatraidepnuithanh/thicuoikyjava.git)
