@@ -172,12 +172,15 @@ public class GameController implements ActionListener {
             if (isFull) {
                 model.setScore(model.getScore() + 100);
                 
-                // Lưu file nếu phá kỷ lục
+                // đã fixx
                 if (model.getScore() > model.getHighScore()) {
-                    model.setHighScore(model.getScore());
-                    FileHelper.saveHighScore(model.getHighScore());
-                }
-
+    model.setHighScore(model.getScore());
+    try {
+        FileHelper.saveHighScore(model.getHighScore());
+    } catch (yennhi.utils.GameFileException ex) {
+        System.err.println(ex.getMessage());
+    }
+}
                 for (int y = i; y > 0; y--) {
                     System.arraycopy(board[y - 1], 0, board[y], 0, GameModel.BOARD_WIDTH);
                 }
