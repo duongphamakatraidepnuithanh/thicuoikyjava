@@ -8,8 +8,8 @@
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò / Nhiệm vụ | Link GitHub Cá Nhân |
 |---|---|---|---|---|
 | 1 | Phạm Tùng Dương (Nhóm trưởng)| 3120225036 | Code Controller,Code Model, Xử lý Thuật toán, Main | [GitHub](https://github.com/duongphamakatraidepnuithanh) |
-| 2 | Lê Thị Thanh Hằng] | 3120225044 | Xử lý File I/O, Main, test, Báo cáo | [GitHub](#) |
-| 3 | Hoàng Yến Nhi | 3120225110 | ,Vẽ Giao diện (View), KeyListener, Đồ họa  | [GitHub](#) |
+| 2 | Lê Thị Thanh Hằng] | 3120225044 | Xử lý File I/O, Main, test, Báo cáo | [GitHub](https://github.com/lth29072007-a11y) |
+| 3 | Hoàng Yến Nhi | 3120225110 | ,Vẽ Giao diện (View), KeyListener, Đồ họa  | [GitHub](https://github.com/hynhik7-dot) |
 
 ## 📖 Giới thiệu dự án (Description)
 Đây là dự án Game Xếp Gạch (Tetris) kinh điển được thiết kế lại với phong cách đồ họa Neon Synthwave đẹp mắt. Trò chơi giúp người chơi giải trí thông qua việc sắp xếp các khối gạch rơi tự do, ăn điểm khi lấp đầy hàng ngang và liên tục thử thách bản thân với hệ thống lưu trữ kỷ lục.
