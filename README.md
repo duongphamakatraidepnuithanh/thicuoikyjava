@@ -1,4 +1,4 @@
-<img width="570" height="709" alt="image" src="https://github.com/user-attachments/assets/df806625-8676-4e58-9159-30ae934db8b7" /># 🎮 Game Xếp Hình
+# 🎮 Game Xếp Hình
 
 > **Bài tập lớn cuối kỳ môn Lập trình Java**
 > **Nhóm thực hiện: Nhóm 4 UED**
@@ -27,15 +27,6 @@
 * **Giao diện:** Java Swing, AWT (`Graphics2D`)
 * **Lưu trữ:** File Text (`highscore.txt`)
 * **Công cụ khác:** Git, GitHub, IntelliJ IDEA / Eclipse
-## 🎮 Một số hình ảnh khi chạy
-* **Bắt đầu chơi
-<img width="571" height="710" alt="image" src="https://github.com/user-attachments/assets/a345e39b-9cfb-4c61-9724-659fe545fb42" />
-* **Lúc chơi
-<img width="568" height="712" alt="image" src="https://github.com/user-attachments/assets/7d5cafad-d211-47be-9a31-d34405daca9d" />
-* **Lúc thua
-<img width="570" height="709" alt="image" src="https://github.com/user-attachments/assets/946c9f3c-d1f5-4cb5-b67d-bd8e6c896917" />
-* **Điểm cao nhất
-<img width="209" height="378" alt="image" src="https://github.com/user-attachments/assets/d6d0d5c8-00fa-457b-b2be-0161182557c4" />
 
 ## 📂 Cấu trúc thư mục (Project Structure)
 Mã nguồn được tổ chức chặt chẽ theo mô hình **MVC (Model - View - Controller)**:
